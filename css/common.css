@@ -1,0 +1,19 @@
+.title {
+	text-align: center;
+	font-size: 40px;
+	font-weight: 700;
+	line-height: 1.125;
+	text-transform: capitalize;
+}
+.subtitle {
+	max-width: 490px;
+	text-align: center;
+	font-size: 16px;
+	font-weight: 500;
+	color: #637381;
+}
+.second-subtitle {
+	color: #3056D3;
+	font-size: 18px;
+	line-height: 1.33;
+}
